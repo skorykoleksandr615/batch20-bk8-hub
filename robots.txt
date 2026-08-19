@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bk8.online/sitemap.xml
+Sitemap: https://bk8.foo/sitemap.xml
